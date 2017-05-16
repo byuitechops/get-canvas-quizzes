@@ -1,0 +1,25 @@
+{
+  "name": "canvas-api-class",
+  "version": "1.0.0",
+  "description": "just taking the class",
+  "main": "rest_intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meeple142/canvas-api-class.git"
+  },
+  "author": "Joshua McKinney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meeple142/canvas-api-class/issues"
+  },
+  "homepage": "https://github.com/meeple142/canvas-api-class#readme",
+  "dependencies": {
+    "async": "^2.4.0",
+    "chalk": "^1.1.3",
+    "d3-dsv": "^1.0.5",
+    "got": "^6.7.1"
+  }
+}
