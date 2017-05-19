@@ -1,5 +1,5 @@
 {
-  "name": "canvas-api-class",
+  "name": "get-canvas-quizzes",
   "version": "1.0.0",
   "description": "just taking the class",
   "main": "rest_intro.js",
@@ -8,9 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meeple142/canvas-api-class.git"
+    "url": "https://github.com/byuitechops/get-canvas-quizzes"
   },
   "author": "Joshua McKinney",
+  "contributors": "Didymus Benson"
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/meeple142/canvas-api-class/issues"
